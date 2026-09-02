@@ -10,7 +10,7 @@
 "Brest","KERJEAN","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
 "Brest","KERMARREC","FLORENT","agent d'exploitation","District 29",NA,NA,NA
 "Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
-"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Gerbeur _ ACES","31/08/2027","Durable"
+"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "Brest","LE BERRE","MICKAEL","agent d'exploitation","District 29",NA,NA,NA
 "Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29",NA,NA,NA
 "Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
@@ -19,13 +19,14 @@
 "Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
 "Brest","VALLEE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Gerbeur _ ACES","15/09/2027","Durable"
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29",NA,NA,NA
@@ -40,7 +41,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29","Gerbeur _ ACES","14/09/2028","Durable"

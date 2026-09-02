@@ -1,4 +1,23 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
+"Brest","AUTRET","PATRICE","responsable de cei","District 29",NA,NA,NA
+"Brest","BLOCH","ERWAN","responsable d'exploi","District 29",NA,NA,NA
+"Brest","CAMPION","MATTHIAS","agent d'exploitation","District 29",NA,NA,NA
+"Brest","CANY CANIAN","ERIK","agent d'exploitation","District 29",NA,NA,NA
+"Brest","CLOAREC","RONAN","chef.fe d'équipe","District 29",NA,NA,NA
+"Brest","DUCLAUX","JEAN-SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
+"Brest","FERRAPIE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","HALL","ANTHONY","agent d'exploitation","District 29",NA,NA,NA
+"Brest","KERJEAN","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","KERMARREC","FLORENT","agent d'exploitation","District 29","Porte-engins _ ACES","25/06/2036","Durable"
+"Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
+"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29",NA,NA,NA
+"Brest","LE BERRE","MICKAEL","agent d'exploitation","District 29",NA,NA,NA
+"Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29",NA,NA,NA
+"Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
+"Brest","LEYER","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","PUT","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
+"Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","VALLEE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","ANDRE","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","ANDRE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","ARIBOT","DAVY","agent d'exploitation","District 29",NA,NA,NA
@@ -16,13 +35,14 @@
 "Chateaulin","TROMEUR","DAVID","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Porte-engins _ ACES","15/06/2027","Moins d'1 an"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29",NA,NA,NA
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Porte-engins _ ACES","18/05/2027","Moins d'1 an"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29",NA,NA,NA
@@ -37,7 +57,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29","Porte-engins _ ACES","15/06/2027","Moins d'1 an"
@@ -64,22 +83,3 @@
 "St Thegonnec","PROUFF","JEAN RENE","agent d'exploitation","District 29",NA,NA,NA
 "St Thegonnec","SIMON","GERARD","chef equipe b","District 29",NA,NA,NA
 "St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29",NA,NA,NA
-"Brest","AUTRET","PATRICE","responsable de cei","District 29",NA,NA,NA
-"Brest","BLOCH","ERWAN","responsable d'exploi","District 29",NA,NA,NA
-"Brest","CAMPION","MATTHIAS","agent d'exploitation","District 29",NA,NA,NA
-"Brest","CANY CANIAN","ERIK","agent d'exploitation","District 29",NA,NA,NA
-"Brest","CLOAREC","RONAN","chef.fe d'équipe","District 29",NA,NA,NA
-"Brest","DUCLAUX","JEAN-SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
-"Brest","FERRAPIE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","HALL","ANTHONY","agent d'exploitation","District 29",NA,NA,NA
-"Brest","KERJEAN","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","KERMARREC","FLORENT","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
-"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29",NA,NA,NA
-"Brest","LE BERRE","MICKAEL","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LEYER","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","PUT","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
-"Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","VALLEE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA

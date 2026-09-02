@@ -37,13 +37,14 @@
 "Chateaulin","TROUCHARD","JEAN-MARC",NA,"District 29","Grues auxiliaires _ ACES","06/02/2031","Durable"
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","26/11/2030","Durable"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
@@ -59,7 +60,7 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29","Grues auxiliaires _ ACES","21/02/2030","Durable"
+"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Grues auxiliaires _ ACES","21/02/2030","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","Grues auxiliaires _ ACES","04/07/2030","Durable"
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29","Grues auxiliaires _ ACES","04/07/2030","Durable"
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA,NA

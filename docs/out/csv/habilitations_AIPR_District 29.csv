@@ -15,7 +15,7 @@
 "Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29",NA,NA,NA
 "Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
 "Brest","LEYER","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","PUT","SEBASTIEN","agent d'exploitation","District 29","AIPR Opérateur","07/02/2027","Moins d'1 an"
+"Brest","PUT","SEBASTIEN","agent d'exploitation","District 29","AIPR Opérateur","07/02/2027","Moins de 6 mois"
 "Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
 "Brest","VALLEE","STEPHANE","agent d'exploitation","District 29","AIPR Opérateur","15/12/2028","Durable"
 "Chateaulin","ANDRE","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
@@ -35,13 +35,14 @@
 "Chateaulin","TROMEUR","DAVID","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","AIPR Opérateur","19/12/2029","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","AIPR - Encadrant","12/12/2028","Durable"
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","AIPR Opérateur","15/12/2028","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29",NA,NA,NA
@@ -56,7 +57,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA,NA
