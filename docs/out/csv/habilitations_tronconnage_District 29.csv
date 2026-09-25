@@ -10,7 +10,7 @@
 "Brest","KERJEAN","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
 "Brest","KERMARREC","FLORENT","agent d'exploitation","District 29","Tronçonnage","14/03/2030","Durable"
 "Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
-"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Tronçonnage","18/03/2027","Moins d'1 an"
+"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Tronçonnage","18/03/2027","Moins de 6 mois"
 "Brest","LE BERRE","MICKAEL","agent d'exploitation","District 29","Tronçonnage","14/03/2030","Durable"
 "Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29","Tronçonnage","22/03/2029","Durable"
 "Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
@@ -48,6 +48,7 @@
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","Tronçonnage","14/03/2030","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","TRICHARD","LUC","agent d'exploitation","District 29","Tronçonnage","17/10/2029","Durable"
+"District 29","BONNIOU","OLIVIER",NA,"District 29","Tronçonnage","09/02/2029","Durable"
 "Melgven","ABDALLAH DJOUMOI","ABDOU","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","AUDEFROY","YANN","chef equipe a","District 29",NA,NA,NA
 "Melgven","BELUZE","BENOIT","agent d'exploitation","District 29",NA,NA,NA

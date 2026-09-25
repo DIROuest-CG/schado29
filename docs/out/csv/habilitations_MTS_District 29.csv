@@ -44,11 +44,12 @@
 "Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29","25/11/2030","Durable"
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA
-"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","20/02/2030","Durable"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","04/07/2029","Durable"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","09/01/2030","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29","27/05/2030","Durable"
 "Chateauneuf du Faou","TRICHARD","LUC","agent d'exploitation","District 29","04/02/2030","Durable"
+"District 29","BONNIOU","OLIVIER",NA,"District 29","24/06/2030","Durable"
 "Melgven","ABDALLAH DJOUMOI","ABDOU","agent d'exploitation","District 29",NA,NA
 "Melgven","AUDEFROY","YANN","chef equipe a","District 29","05/06/2030","Durable"
 "Melgven","BELUZE","BENOIT","agent d'exploitation","District 29","05/06/2030","Durable"
@@ -59,7 +60,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","20/02/2030","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","05/06/2030","Durable"
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29","05/06/2030","Durable"
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA

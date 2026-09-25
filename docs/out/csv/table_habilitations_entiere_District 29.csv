@@ -86,7 +86,7 @@
 "Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
 "Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Engins de service hivernal _ ACES","30/01/2036","Durable"
 "Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Chargeuses, chargeuses-pelleteuses _ ACES","02/04/2031","Durable"
-"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Tronçonnage","18/03/2027","Moins d'1 an"
+"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Tronçonnage","18/03/2027","Moins de 6 mois"
 "Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","AIPR Opérateur","08/12/2027","Durable"
 "Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29","Gerbeur _ ACES","31/08/2027","Moins d'1 an"
 "Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29",NA,NA,NA
@@ -360,7 +360,7 @@
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Tracteur >50 cv _ ACES","16/11/2033","Durable"
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","tracteurs >50cv avec super-épareuse _ ACES engin de chantier","16/11/2033","Durable"
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
-"Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Durable"
+"Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Moins d'1 an"
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Engins de service hivernal _ ACES","08/12/2033","Durable"
@@ -373,7 +373,7 @@
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","tracteurs >50cv avec super-épareuse _ ACES engin de chantier","16/11/2033","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Mini-pelles _ ACES","02/04/2036","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
-"Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Gerbeur _ ACES","15/09/2027","Durable"
+"Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Gerbeur _ ACES","15/09/2027","Moins d'1 an"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29",NA,NA,NA
 "Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
@@ -382,12 +382,14 @@
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29","Mini-pelles _ ACES","02/04/2036","Durable"
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","Chargeuses, chargeuses-pelleteuses _ ACES","25/10/2034","Durable"
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","QUAPODES","22/06/2027","Moins d'1 an"
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","MTS _ Module théorique de Sécurité","20/02/2030","Durable"
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","Tondeuses autoportées _ ACES","21/02/2035","Durable"
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","Tracteur >50 cv _ ACES","21/02/2035","Durable"
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","Mini-pelles _ ACES","25/10/2034","Durable"
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","Grues auxiliaires _ ACES","21/02/2030","Durable"
 "Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
-"Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","Bennes amovibles _ ACES","29/04/2032","Durable"
-"Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","Tondeuses autoportées _ ACES","27/04/2032","Durable"
-"Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","Tracteur >50 cv _ ACES","27/04/2032","Durable"
-"Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","tracteurs >50cv avec super-épareuse _ ACES engin de chantier","27/04/2032","Durable"
-"Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Engins de service hivernal _ ACES","22/03/2029","Durable"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Porte-engins _ ACES","18/05/2027","Moins d'1 an"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Tronçonnage","17/10/2029","Durable"
@@ -512,13 +514,6 @@
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29","Engins de service hivernal _ ACES","14/02/2030","Durable"
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29","Bennes amovibles _ ACES","14/02/2030","Durable"
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Chargeuses, chargeuses-pelleteuses _ ACES","25/10/2034","Durable"
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","QUAPODES","22/06/2027","Moins d'1 an"
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","MTS _ Module théorique de Sécurité","20/02/2030","Durable"
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Tondeuses autoportées _ ACES","21/02/2035","Durable"
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Tracteur >50 cv _ ACES","21/02/2035","Durable"
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Mini-pelles _ ACES","25/10/2034","Durable"
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Grues auxiliaires _ ACES","21/02/2030","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","Engins de service hivernal _ ACES","06/10/2033","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","Bennes amovibles _ ACES","04/07/2035","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","Tronçonnage","09/02/2029","Durable"
@@ -664,7 +659,7 @@
 "St Thegonnec","LECOQ","ROMUALD","agent d'exploitation","District 29",NA,NA,NA
 "St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","Engins de service hivernal _ ACES","06/10/2033","Durable"
 "St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","Bennes amovibles _ ACES","06/10/2033","Durable"
-"St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","Chargeuses, chargeuses-pelleteuses _ ACES","21/09/2027","Durable"
+"St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","Chargeuses, chargeuses-pelleteuses _ ACES","21/09/2027","Moins d'1 an"
 "St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","Tronçonnage","09/02/2029","Durable"
 "St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","QUAPODES","15/06/2027","Moins d'1 an"
 "St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","MTS _ Module théorique de Sécurité","09/01/2030","Durable"
@@ -683,7 +678,7 @@
 "St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29","Mini-pelles _ ACES","06/06/2035","Durable"
 "St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29","Nacelles 1B _ ACES","12/01/2029","Durable"
 "St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29","Nacelles 3B _ ACES","12/01/2029","Durable"
-"St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Durable"
+"St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Moins d'1 an"
 "St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29","Grues auxiliaires _ ACES","10/01/2030","Durable"
 "St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29",NA,NA,NA
 "St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","Engins de service hivernal _ ACES","15/02/2028","Durable"
@@ -698,7 +693,7 @@
 "St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","Mini-pelles _ ACES","20/06/2029","Durable"
 "St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","Nacelles 1B _ ACES","12/01/2029","Durable"
 "St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","Nacelles 3B _ ACES","12/01/2029","Durable"
-"St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Durable"
+"St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","Gerbeur _ ACES","15/09/2027","Moins d'1 an"
 "St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29",NA,NA,NA
 "St Thegonnec","MIOSSEC","ALAIN","responsable de cei","District 29","AIPR - Encadrant","12/12/2028","Durable"
 "St Thegonnec","MIOSSEC","ALAIN","responsable de cei","District 29",NA,NA,NA
@@ -732,3 +727,8 @@
 "St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29","MTS _ Module théorique de Sécurité","09/01/2030","Durable"
 "St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29","Grues auxiliaires _ ACES","10/01/2030","Durable"
 "St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29",NA,NA,NA
+"District 29","BONNIOU","OLIVIER",NA,"District 29","Porte-engins _ ACES","25/06/2036","Durable"
+"District 29","BONNIOU","OLIVIER",NA,"District 29","Tronçonnage","09/02/2029","Durable"
+"District 29","BONNIOU","OLIVIER",NA,"District 29","MTS _ Module théorique de Sécurité","24/06/2030","Durable"
+"District 29","BONNIOU","OLIVIER",NA,"District 29","Chariots automoteurs _ ACES","25/06/2030","Durable"
+"District 29","VIGOUROUX","THIERRY",NA,"District 29","AIPR - Encadrant","10/12/2026","Moins de 6 mois"
